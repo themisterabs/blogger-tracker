@@ -1,0 +1,7 @@
+name = "blogger-tracker"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "blogger_visitors"
